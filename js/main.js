@@ -1,7 +1,7 @@
 let libros = JSON.parse(localStorage.getItem("ARRAY_LIBROS"));
-let librosEnFavoritos = JSON.parse(
-  localStorage.getItem("ARRAY_LIBROS_FAVORITOS" || "[]")
-);
+
+let librosEnFavoritos =
+  JSON.parse(localStorage.getItem("ARRAY_LIBROS_FAVORITOS")) || [];
 // console.log(librosEnFavoritos);
 guardarStorage("ARRAY_LIBROS_FAVORITOS", librosEnFavoritos);
 
@@ -194,5 +194,5 @@ fetch(`./data/arrayLibros.json`)
     guardarStorage("ARRAY_LIBROS", json);
     libros = JSON.parse(localStorage.getItem("ARRAY_LIBROS"));
     recorrerArrayLibrosYMostrar(json);
-    guardarStorage("ARRAY_LIBROS_FAVORITOS", []);
+    guardarStorage("ARRAY_LIBROS_FAVORITOS", librosEnFavoritos);
   });
