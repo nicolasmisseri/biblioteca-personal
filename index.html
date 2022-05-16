@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Biblioteca</title>
+
+        <link rel="icon"
+            href="https://i.pinimg.com/736x/c4/23/d7/c423d7f929650892d3345964a5230989.jpg">
+        <link rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+            integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+            crossorigin="anonymous">
+
+        <link rel="stylesheet" href="styles/style.css">
+        <!-- Tipografia     -->
+
+
+
+    </head>
+    <body onload="init()">
+        <header id="header">
+
+            <h1>Biblioteca Personal</h1>
+            <div>
+                <button id="menuDeAdicion" class="btn btn-info">
+                    Desplegar menu de adiciòn
+                </button><br>
+            </div>
+        </header>
+
+        <form id="agregarLibro">
+            <label for="idLibro">IdLibro: </label><br>
+            <input type="number" id="idLibro"
+                placeholder="Ingrese el ID"><br>
+            <label for="autor">Autor: </label><br>
+            <input type="text" id="autor"
+                placeholder="Ingrese el autor"><br>
+            <label for="title">Tìtulo: </label><br>
+            <input type="text" id="title"
+                placeholder="Ingrese el title"><br>
+            <label for="thumbnail">URL de la imágen: </label><br>
+            <input type="text" id="thumbnail"
+                placeholder="Ingrese la URL de la imagen de la tapa"><br>
+            <button id="btnAgregarLibro">Agregar Libro</button>
+        </form>
+
+        <ul id="mostrarLibros">
+
+            <!-- </ul>
+
+        <ul id="mostrarLibrosFavoritos">
+
+        </ul> -->
+        </ul>
+
+        <div>
+
+            <h2>Favoritos</h2>
+            <ul id="mostrarLibrosFavoritos">
+
+
+            </ul>
+
+        </div>
+
+
+
+        <script src="./data/arrayLibros.js"></script>
+        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+        <script src="js/main.js"></script>
+
+
+    </body>
+</html>

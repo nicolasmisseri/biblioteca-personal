@@ -1,0 +1,43 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400&family=Poppins:ital,wght@0,200;1,100&family=Roboto+Mono:ital,wght@0,300;1,100&family=Whisper&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Macondo&family=Oswald:wght@200;400&family=Poppins:ital,wght@0,200;1,100&family=Roboto+Mono:ital,wght@0,300;1,100&family=Whisper&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    font-family: 'Macondo', cursive;
+
+    
+}
+#header{
+    margin: 0 0 3rem 3rem;
+
+}
+#header > h1 {
+    text-align: center;
+}
+
+#agregarLibro{
+    margin: 0 0 3rem 3rem;
+}
+#agregarLibro > input {
+    width: 50%;
+}
+#agregarLibro > #btnAgregarLibro{
+    margin: 1rem 0 0 0;
+    width: 50%;
+}
+#mostrarLibros, #mostrarLibrosFavoritos {    
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: auto;
+    margin: 3rem 0 0 3rem;
+}
+.card {
+    height: 25rem;
+    margin: 0.5rem 0.5rem 0.5rem 0;
+}
+
+#listaDeLibrosFavoritos {
+    margin-top: 2rem;
+}
