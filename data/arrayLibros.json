@@ -112,7 +112,7 @@
     "url_details": "https://www.etnassoft.com/biblioteca/the-cultural-gutter/",
     "url_download": "https://openlibra.com/book/the-cultural-gutter",
     "cover": "http://collection.openlibra.com.s3.amazonaws.com/covers/2015/07/Cultural-Gutter-OpenLibra-307x461.jpg",
-    "thumbnail": "http://collection.openlibra.com.s3.amazonaws.com/covers/2015/07/Cultural-Gutter-OpenLibra-110x153.jpg",
+    "thumbnail": "https://olcovers2.blob.core.windows.net/coverswp/2015/07/Cultural-Gutter-OpenLibra.jpg",
     "num_comments": "0",
     "categories": [
       {
@@ -172,7 +172,7 @@
     "url_details": "https://www.etnassoft.com/biblioteca/dibujo-artistico-nociones-basicas/",
     "url_download": "https://openlibra.com/book/dibujo-artistico-nociones-basicas",
     "cover": "http://collection.openlibra.com.s3.amazonaws.com/covers/2015/06/Dibujo-Artistico-Basico-OpenLibra-345x461.jpg",
-    "thumbnail": "http://collection.openlibra.com.s3.amazonaws.com/covers/2015/06/Dibujo-Artistico-Basico-OpenLibra-110x153.jpg",
+    "thumbnail": "https://guao.org/sites/default/files/biblioteca/Dibujo%20art%C3%ADstico.%20Nociones%20b%C3%A1sicas.jpg",
     "num_comments": "0",
     "categories": [
       {
@@ -237,7 +237,7 @@
     "url_details": "https://www.etnassoft.com/biblioteca/mi-taller-digital-comic-digital/",
     "url_download": "https://openlibra.com/book/mi-taller-digital-comic-digital",
     "cover": "http://collection.openlibra.com.s3.amazonaws.com/covers/2015/06/Mi-taller-digital-Comic-Digital-OpenLibra-334x461.jpg",
-    "thumbnail": "http://collection.openlibra.com.s3.amazonaws.com/covers/2015/06/Mi-taller-digital-Comic-Digital-OpenLibra-110x153.jpg",
+    "thumbnail": "https://universoabiertoblog.files.wordpress.com/2016/11/mi-taller-digital-comic-digital-openlibra.jpg",
     "num_comments": "0",
     "categories": [
       {
@@ -287,7 +287,7 @@
     "url_details": "https://www.etnassoft.com/biblioteca/comic-e-ilustracion-2012/",
     "url_download": "https://openlibra.com/book/comic-e-ilustracion-2012",
     "cover": "http://collection.openlibra.com.s3.amazonaws.com/covers/2013/12/Comic-Ilustracion-2012-OpenLibra-326x461.jpg",
-    "thumbnail": "http://collection.openlibra.com.s3.amazonaws.com/covers/2013/12/Comic-Ilustracion-2012-OpenLibra-110x153.jpg",
+    "thumbnail": "https://olcovers2.blob.core.windows.net/coverswp/2013/12/Comic-Ilustracion-2012-OpenLibra.jpg",
     "num_comments": "0",
     "categories": [
       {
@@ -322,7 +322,7 @@
     "url_details": "https://www.etnassoft.com/biblioteca/observatorio-de-la-ilustracion-grafica-los-retos-de-la-era-digital/",
     "url_download": "https://openlibra.com/book/observatorio-de-la-ilustracion-grafica-los-retos-de-la-era-digital",
     "cover": "http://collection.openlibra.com.s3.amazonaws.com/covers/2013/12/Observatorio-de-la-Ilustracion-Grafica-OpenLibra-332x461.jpg",
-    "thumbnail": "http://collection.openlibra.com.s3.amazonaws.com/covers/2013/12/Observatorio-de-la-Ilustracion-Grafica-OpenLibra-110x153.jpg",
+    "thumbnail": "https://olcovers2.blob.core.windows.net/coverswp/2013/12/Observatorio-de-la-Ilustracion-Grafica-OpenLibra.jpg",
     "num_comments": "0",
     "categories": [
       {
@@ -382,7 +382,7 @@
     "url_details": "https://www.etnassoft.com/biblioteca/nuevo-libro-blanco-de-la-ilustracion-grafica-en-espana/",
     "url_download": "https://openlibra.com/book/nuevo-libro-blanco-de-la-ilustracion-grafica-en-espana",
     "cover": "http://collection.openlibra.com.s3.amazonaws.com/covers/2013/12/Nuevo-Libro-Blanco-Ilustracion-OpenLibra-332x461.png",
-    "thumbnail": "http://collection.openlibra.com.s3.amazonaws.com/covers/2013/12/Nuevo-Libro-Blanco-Ilustracion-OpenLibra-110x153.png",
+    "thumbnail": "https://pdf4pro.com/cache/preview/9/4/1/9/5/f/2/0/thumb-94195f208909a78ecb3e975857f102af.jpg",
     "num_comments": "0",
     "categories": [
       {
@@ -427,7 +427,7 @@
     "url_details": "https://www.etnassoft.com/biblioteca/random-shareable/",
     "url_download": "https://openlibra.com/book/random-shareable",
     "cover": "http://collection.openlibra.com.s3.amazonaws.com/covers/2013/12/Random-Shareable-OpenLibra-334x461.jpg",
-    "thumbnail": "http://collection.openlibra.com.s3.amazonaws.com/covers/2013/12/Random-Shareable-OpenLibra-110x153.jpg",
+    "thumbnail": "https://olcovers2.blob.core.windows.net/coverswp/2013/12/Random-Shareable-OpenLibra-300x412.jpg",
     "num_comments": "0",
     "categories": [
       {
@@ -472,7 +472,7 @@
     "url_details": "https://www.etnassoft.com/biblioteca/ubunchu-1-ed-espanol/",
     "url_download": "https://openlibra.com/book/ubunchu-1-ed-espanol",
     "cover": "http://collection.openlibra.com.s3.amazonaws.com/covers/2012/06/ubunchu-issue1-es-350x458.jpg",
-    "thumbnail": "http://collection.openlibra.com.s3.amazonaws.com/covers/2012/06/ubunchu-issue1-es-110x153.jpg",
+    "thumbnail": "https://olcovers2.blob.core.windows.net/coverswp/2012/06/ubunchu-issue1-es.jpg",
     "num_comments": "0",
     "categories": [
       {
